@@ -1,5 +1,5 @@
 # My Portfolio[:fire:](https://walterdmazariego.com)
-                       (^click me)
+                       (^click the fire)
 
 ## Basic Portfolio page.
 
