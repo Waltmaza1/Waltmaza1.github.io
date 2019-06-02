@@ -1,0 +1,26 @@
+{
+  "name": "waltmaza1.github.io",
+  "version": "1.0.0",
+  "description": "My website",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "start": "npm run develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waltmaza1/Waltmaza1.github.io.git"
+  },
+  "author": "Walter D. Mazariego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Waltmaza1/Waltmaza1.github.io/issues"
+  },
+  "homepage": "https://github.com/Waltmaza1/Waltmaza1.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.8.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
