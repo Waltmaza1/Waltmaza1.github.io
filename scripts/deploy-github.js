@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/flexdinesh/flexdinesh.github.io.git',
+    repo: 'https://github.com/Waltmaza1/Waltmaza1.github.io',
   },
   () => {
     console.log('Deploy Complete!')
