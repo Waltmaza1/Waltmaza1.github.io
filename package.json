@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Waltmaza1/Waltmaza1.github.io#readme",
   "dependencies": {
-    "gatsby": "^2.8.2",
+    "gatsby": "^2.32.13",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
